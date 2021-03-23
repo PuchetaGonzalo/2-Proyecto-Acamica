@@ -1,6 +1,6 @@
 // TODO ---------------------- GIF Actions ----------------------  \\
 
-// ---- Favoritear ---- \\
+// ---- Add favourites ---- \\
 let arrFavoriteGifs = [];
 
 const addToFav = (gif, username, title) => {

@@ -1,6 +1,6 @@
 /*
 
-Pasitos desglosados:
+Pasos desglosados:
 ? click en COMENZAR --> 
 	* Se "activa" el STEP 1 ($step1 cambia de estilos) ----> LISTO
 	* Cambia el titulo($crearGifTitle) ----> LISTO
@@ -27,7 +27,7 @@ Pasitos desglosados:
 		* función que suba el gif y cambie esto? :
 		Aparece SOBRE EL VIDEO el overlay ----> LISTO
 
-	* GIFO SUBIDO CON ESITO 
+	* GIFO SUBIDO CON EXITO 
 		* 1. Cambia el texto e ícono ----> LISTO
 		* 2. Se envía a MIS GIFOS----> LISTO
 		* 3. Al overlay le aparecen los botones.----> LISTO
